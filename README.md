@@ -86,30 +86,6 @@ Para cada porta de 1 até 1024:
   5. Fecha o socket
 ```
 
----
-
-## 🧪 Ambiente de prática seguro
-
-Teste sempre em ambientes controlados:
-
-| Plataforma | Descrição | Link |
-|---|---|---|
-| 🟢 TryHackMe | Labs guiados para iniciantes | [tryhackme.com](https://tryhackme.com) |
-| 🟡 HackTheBox | Máquinas desafiadoras | [hackthebox.com](https://hackthebox.com) |
-| 🔴 VulnHub | VMs vulneráveis locais | [vulnhub.com](https://vulnhub.com) |
-| 🔵 Metasploitable | VM vulnerável para prática | Download via VulnHub |
-
----
-
-## 🗺️ Próximos scripts (roadmap)
-
-- [ ] **v2** — Banner Grabbing (identificar versão dos serviços)
-- [ ] **v3** — Threads para scan mais rápido
-- [ ] **v4** — Exportar resultado em `.txt` / `.csv`
-- [ ] **v5** — Integração com Shodan API
-
----
-
 ## ⚠️ Aviso Legal
 
 Este projeto foi desenvolvido **exclusivamente para fins educacionais**.
@@ -126,14 +102,8 @@ Este projeto foi desenvolvido **exclusivamente para fins educacionais**.
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**
+**Jonas Franco**
 Analista de Suporte e Infraestrutura | Pós-graduação em Segurança e Defesa Cibernética
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario)
-
----
-
-## 📄 Licença
-
-MIT License — veja o arquivo [LICENSE](LICENSE) para detalhes.
+[![https://www.linkedin.com/in/jonas-alexander/](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![https://github.com/JonasAlexander1505](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario)
