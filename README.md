@@ -105,5 +105,5 @@ Este projeto foi desenvolvido **exclusivamente para fins educacionais**.
 **Jonas Franco**
 Analista de Suporte e Infraestrutura | Pós-graduação em Segurança e Defesa Cibernética
 
-[![https://www.linkedin.com/in/jonas-alexander/](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![https://github.com/JonasAlexander1505](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn]](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jonas-alexander/))
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/JonasAlexander1505)
